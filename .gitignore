@@ -1,0 +1,15 @@
+# Python cache files
+__pycache__/
+*.pyc
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Virtual environment folders
+venv/
+env/
+.venv/
+
+# Streamlit secrets (do not share sensitive credentials)
+.streamlit/secrets.toml
